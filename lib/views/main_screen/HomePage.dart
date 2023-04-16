@@ -1,8 +1,3 @@
-// import 'package:application/controller/weather_api_controller.dart';
-// import 'package:application/model/weather_model.dart';
-// import 'package:application/utils/colors.dart';
-// import 'package:application/views/additional_information.dart';
-// import 'package:application/views/current_weather.dart';
 import 'package:flutter/material.dart';
 import 'package:weather_app/controller/weather_api_controller.dart';
 import 'package:weather_app/model/weather_model.dart';
