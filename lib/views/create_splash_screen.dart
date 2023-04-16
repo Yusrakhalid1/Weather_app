@@ -1,7 +1,7 @@
 import 'dart:async';
 
 import 'package:flutter/material.dart';
-import 'package:weather_app/main_screen/HomePage.dart';
+import 'package:weather_app/views/main_screen/HomePage.dart';
 
 class SplashScreen extends StatefulWidget {
   @override
